@@ -1,5 +1,10 @@
 # MAViS: An Audio-visual Conversational Assistant For Avian Species
 
+
+<p align="center">
+  <img src="Main_Figure.pdf" alt="MAViS Main Figure" width="700"/>
+</p>
+
 [![Paper](https://img.shields.io/badge/Paper-EMNLP%202025-blue)](https://openreview.net/forum?id=AsPeZSZl5c)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
