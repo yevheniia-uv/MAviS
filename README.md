@@ -2,8 +2,6 @@
 
 ![MAViS Teaser Figure](Main_Figure.jpg)
 
-This repository will host the official implementation, dataset splits, and pretrained models from our paper:
-
 **"MAviS: An Audio-visual Conversational Assistant For Avian Species"**  
 *(EMNLP 2025, Oral Presentation, Top 15% of Submissions)*
 
